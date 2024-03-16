@@ -10,5 +10,12 @@
     </td>
 </tr>
 </table>
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<table>
+  <tr>
+    <td>
+      Tech I know:<br>
+      -Python<br>-C/C++<br>-Java<br>-React<br>-JavaScript<br>-CSS/TailwindCSS<br>-ML
+    </td>
+  </tr>
+</table>
 
